@@ -22,6 +22,8 @@
 * [Aurora](https://github.com/aurora-develop/aurora) - Fast deployment on Render/Vercel 🌩
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - Docker & Android, very stable 👍🏻
 * [FreeGPT35](https://github.com/missuo/FreeGPT35) - Parameters avaiable, Nginx reverse proxy supported 🥳
+* [FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - For Vecel pro users, not recommended. ❎
+
 
 ## Star History
 
