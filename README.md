@@ -23,6 +23,7 @@
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - Docker & Android, very stable 👍🏻
 * [FreeGPT35](https://github.com/missuo/FreeGPT35) - Parameters avaiable, Nginx reverse proxy supported 🥳
 * [FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - For Vecel pro users, not recommended. ❎
+* [free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api)
 
 
 ## Star History
