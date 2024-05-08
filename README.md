@@ -24,6 +24,7 @@
 * [FreeGPT35](https://github.com/missuo/FreeGPT35) - Parameters avaiable, Nginx reverse proxy supported 🥳
 * [FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - For Vecel pro users, not recommended. ❎
 * [freegptjs](https://github.com/Dalufishe/freegptjs) - Free ChatGPT 3.5 API for Javascript
+* [Duck2api](https://github.com/aurora-develop/Duck2api) - After Docker is launched, you can readily utilize GPT-3.5 via its API endpoint at http://127.0.0.1:8080/v1/chat/completions, accompanied by its web interface at http://127.0.0.1:8080/web, featuring the GPT-3.5 Turbo model.
 * [FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
 * [free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api)
 
